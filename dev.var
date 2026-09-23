@@ -1,3 +1,4 @@
 user=admin
 password=admin@123
+environment=dev
 
